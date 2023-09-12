@@ -1,6 +1,8 @@
 //Imedietely invoked function expressions
 
 (function chai(){ //direct function
+
+    //named IIFE
     console.log('This is an IIFE1')
 })();
 
