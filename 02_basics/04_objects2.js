@@ -56,4 +56,6 @@ console.log(Object.values(keys_Values_AsArray)) //gets all the values as an arra
 
 console.log(Object.entries(keys_Values_AsArray)) //gets array within array of both keys and values as an array
 
+console.log(keys_Values_AsArray.hasOwnProperty("email")) //gets boolean values if it has that propety true or false
+
 
