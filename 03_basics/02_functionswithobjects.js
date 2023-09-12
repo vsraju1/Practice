@@ -22,3 +22,13 @@ console.log(fetchDetails({
     username:"raju",
     year: 2023
 })) //directly passing an object
+
+
+//passing arrays in functions
+const newArray = [1,2,3,4,5]
+
+function fetchArrayDetails(anyarray){
+    return `the first number is ${anyarray[0]} and the last number is ${anyarray[anyarray.length -1]}`
+}
+
+console.log(fetchArrayDetails(newArray)) //passing an array as an argument //or we can directly pass an array
