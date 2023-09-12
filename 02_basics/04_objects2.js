@@ -54,4 +54,6 @@ console.log(Object.keys(keys_Values_AsArray)) //gets all keys in the form an arr
 
 console.log(Object.values(keys_Values_AsArray)) //gets all the values as an array
 
+console.log(Object.entries(keys_Values_AsArray)) //gets array within array of both keys and values as an array
+
 
