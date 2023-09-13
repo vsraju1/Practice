@@ -14,3 +14,13 @@ if (name == "raju"){
 //we can also use comperative operators 
 // ==, ===,<,>,!=,<=,>=   comparative operators
 // &&, ||(and , or)
+
+
+//++++++++++++++++++++++++++++++++++++ Interview ++++++++++++++++++++++++++++++++++
+
+//false value
+
+//false, 0,-0,Bigint 0n,"",null,undefined,Nan //these all are falsy values
+
+//truthy values
+//" "(space empty string),"0"
