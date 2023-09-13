@@ -8,3 +8,9 @@ if (name == "raju"){
 } else{
     console.log("you are something else")
 }
+
+//if else if
+//similarly we can add as many condition we can
+//we can also use comperative operators 
+// ==, ===,<,>,!=,<=,>=   comparative operators
+// &&, ||(and , or)
